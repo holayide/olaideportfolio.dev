@@ -8,6 +8,8 @@ import wtf from "@/assets/certificates/wtf.png";
 
 import promise from "@/assets/testimonials/promise.jpg";
 import tomisin from "@/assets/testimonials/tomisin.jpg";
+import fakomi from "@/assets/testimonials/fakomi.jpg";
+import faith from "@/assets/testimonials/faith.jpg";
 import ebun from "@/assets/testimonials/ebun.jpg";
 
 import olaStore from "@/assets/ola-store.png";
@@ -114,6 +116,24 @@ export const testimonials: TestimonialCardProps[] = [
     company: "Jackobian",
     avatar: promise,
     linkedinUrl: "https://www.linkedin.com/in/promise-nwanozie-eberechukwu/",
+  },
+  {
+    quote:
+      "Having worked directly with Olaide on a project, I can say she’s a very dedicated and highly skilled frontend engineer. Her communication skills are great, and once she understands what needs to be done, she gets it done as well as you’d expect.",
+    name: "Faith Odonghanro",
+    title: "Software Engineer",
+    company: "Jackobian",
+    avatar: faith,
+    linkedinUrl: "https://www.linkedin.com/in/toritsejufo/",
+  },
+  {
+    quote:
+      "Olaide is the kind of exceptional tech professional any project or business needs. She manages to effortlessly and proactively fill up major and minor leadership gaps on any project and in addition to her competence as a developer, qualities like this is what helped deliver excellents projects while working with her.",
+    name: "Idowu Ola Fakomi",
+    title: "Product Designer",
+    company: "Revwit",
+    avatar: fakomi,
+    linkedinUrl: "https://www.linkedin.com/in/olafakomi/",
   },
   {
     quote:
