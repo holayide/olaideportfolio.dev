@@ -35,8 +35,9 @@ export default function HeroContent() {
         </a>
 
         <a
-          href="https://drive.google.com"
+          href="/CV.pdf"
           className="px-6 py-3 inline-flex items-center justify-center text-base font-medium border border-accent text-accent rounded-lg hover:bg-accent/10 hover:-translate-y-0.5 transition"
+          download
         >
           <span>
             <Download size={18} className="mr-2" />

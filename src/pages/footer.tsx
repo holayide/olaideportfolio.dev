@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-dark-grey text-center text-base text-pri">
       <div className="text-start container-base">
-        <div className="border-t border-[#f5c151]/40">
+        <div className="border-t border-[#f5c151]/10">
           <h3 className="mt-10 mb-6 text-2xl font-bold">
             hor<span className="text-accent">la</span>
           </h3>

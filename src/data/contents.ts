@@ -12,13 +12,13 @@ import fakomi from "@/assets/testimonials/fakomi.jpg";
 import faith from "@/assets/testimonials/faith.jpg";
 import ebun from "@/assets/testimonials/ebun.jpg";
 
-import olaStore from "@/assets/ola-store.png";
-import myTask from "@/assets/my-task.png";
-import space from "@/assets/space.png";
+import olaStore from "@/assets/project-images/ola-store.png";
+import myTask from "@/assets/project-images/my-task.png";
+import space from "@/assets/project-images/space.png";
 
-import img1 from "@/assets/ola1.jpeg";
-import img2 from "@/assets/ola2.png";
-import img3 from "@/assets/ola3.jpg";
+import img1 from "@/assets/hero-images/ola1.jpeg";
+import img2 from "@/assets/hero-images/ola2.png";
+import img3 from "@/assets/hero-images/ola3.jpg";
 
 // About
 export const cardsData = [
