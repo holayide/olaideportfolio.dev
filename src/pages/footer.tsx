@@ -3,7 +3,7 @@ import { navLinks } from "@/data/navlinks";
 
 export default function Footer() {
   return (
-    <footer className="bg-dark-grey text-center text-base text-pri">
+    <footer className="bg-dark-grey text-center text-base text-pri pb-3">
       <div className="text-start container-base">
         <div className="border-t border-[#f5c151]/10">
           <h3 className="mt-10 mb-6 text-2xl font-bold">

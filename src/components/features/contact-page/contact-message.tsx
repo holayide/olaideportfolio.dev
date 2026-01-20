@@ -39,7 +39,7 @@ export default function ContactMessage() {
   };
 
   return (
-    <div className="p-8 border border-accent/30 rounded-4xl">
+    <div className="py-8 px-5 md:px-8 border border-accent/30 rounded-4xl">
       <h4 className="text-lg text-start mb-8 font-semibold">Send a Message</h4>
 
       <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col gap-5">
